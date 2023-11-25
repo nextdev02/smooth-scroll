@@ -1,12 +1,8 @@
 
-
-/*
-Author: Bootstrapthemes
-Author URI: http://bootstrapthemes.co
-*/
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+
 html,
 body {
     background-color: #fff;
@@ -52,7 +48,6 @@ img {
     -ms-user-select: none;
     user-select: none;
     -webkit-user-drag: none;
-    user-drag: none;
 }
 a,
 a:hover,
